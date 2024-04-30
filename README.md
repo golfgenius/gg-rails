@@ -1,4 +1,4 @@
-### This repo is held internally exclusively to remove some almost-redundant pre-emptive optimisations added in 5.2.8.1 [https://github.com/rails/rails/pull/29559/files](here).
+### This repo is held internally exclusively to remove some almost-redundant pre-emptive optimisations added in 5.2.8.1 [here](https://github.com/rails/rails/pull/29559/files).
 
 # Welcome to Rails
 
